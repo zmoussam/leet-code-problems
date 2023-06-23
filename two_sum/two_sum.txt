@@ -1,0 +1,25 @@
+Given:
+    nums:[int]
+    target: int
+Return:
+    array of indices adding io target
+
+-----------------------------------------
+for each num, index in nums:
+    for each num2, index2 in nums:
+        if num + num2 = target
+            Return [index, index2]
+        end
+    end
+end
+------------------------------------------
+------------------------------------------
+prevValues = {}
+for each num, index in nums:
+    neededValue = target - num;
+    index2 = prevValues[neededValue]
+    if index2 != null
+        Return[index2, index]
+    else
+        prevValues[num] = index 
+--------------------------------------------  
