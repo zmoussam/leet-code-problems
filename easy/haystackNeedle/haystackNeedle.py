@@ -6,7 +6,7 @@
         {
             if (haystack.substr(i, i + needle.length()) == needle)
                 return i;
-            i++;
+            i += 1;
         }
         return -1;
     }
