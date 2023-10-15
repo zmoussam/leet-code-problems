@@ -1,4 +1,7 @@
-# LeetCode Problem Solutions Repository
+![0_8Gni60rEeCduO3GX](https://github.com/zmoussam/leetCodeProblems/assets/90983110/57aeb32e-864e-4f79-97d7-634ef0b82f34)
+
+# LeetCod
+e Problem Solutions Repository
 
 Welcome to the "LeetCode Problem Solutions" repository! This repository contains a collection of LeetCode coding problems along with their corresponding solutions. Each problem is organized in its own folder, named after the problem title, and contains the problem statement, solution, and test cases.
 
