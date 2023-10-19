@@ -6,7 +6,7 @@ In computer science and algorithm analysis, Big O notation is used to describe t
 
 <img width="1429" alt="Screen Shot 2023-10-19 at 5 45 44 PM" src="https://github.com/zmoussam/leetCodeProblems/assets/90983110/87ffb63a-44de-4991-9aa9-60774db54feb">
 
-# LeetCod
+# LeetCode
 e Problem Solutions Repository
 
 Welcome to the "LeetCode Problem Solutions" repository! This repository contains a collection of LeetCode coding problems along with their corresponding solutions. Each problem is organized in its own folder, named after the problem title, and contains the problem statement, solution, and test cases.
