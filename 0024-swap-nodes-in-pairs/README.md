@@ -3,21 +3,21 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg" style="width: 422px; height: 222px;">
-<pre><strong>Input:</strong> head = [1,2,3,4]
+<pre style="position: relative;"><strong>Input:</strong> head = [1,2,3,4]
 <strong>Output:</strong> [2,1,4,3]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> head = []
+<pre style="position: relative;"><strong>Input:</strong> head = []
 <strong>Output:</strong> []
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> head = [1]
+<pre style="position: relative;"><strong>Input:</strong> head = [1]
 <strong>Output:</strong> [1]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
