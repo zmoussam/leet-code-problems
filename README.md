@@ -1,5 +1,11 @@
 ![0_8Gni60rEeCduO3GX](https://github.com/zmoussam/leetCodeProblems/assets/90983110/57aeb32e-864e-4f79-97d7-634ef0b82f34)
 
+## Big O Notation
+
+In computer science and algorithm analysis, Big O notation is used to describe the performance or complexity of an algorithm. It provides an upper bound on the growth rate of the time (or space) complexity of an algorithm in terms of the input size. It helps in understanding how the algorithm's performance scales with the size of the input. Common notations in Big O analysis include O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), and O(n!). Developers use Big O notation to evaluate the efficiency of an algorithm and to make informed decisions when choosing between different algorithms or approaches to solve a problem. Understanding Big O notation is crucial for writing efficient and scalable code, especially when dealing with large-scale data or time-sensitive applications.
+
+<img width="1429" alt="Screen Shot 2023-10-19 at 5 45 44 PM" src="https://github.com/zmoussam/leetCodeProblems/assets/90983110/87ffb63a-44de-4991-9aa9-60774db54feb">
+
 # LeetCod
 e Problem Solutions Repository
 
